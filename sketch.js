@@ -1,7 +1,10 @@
 function setup() {
-  createCanvas(400, 400);
+  createCanvas(1000, 1000);
 }
 
 function draw() {
-  background(125);
+  background(100);
+  describe()
+  describeElement()
+  //screenreader woo
 }
